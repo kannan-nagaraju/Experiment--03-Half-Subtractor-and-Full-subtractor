@@ -1,5 +1,5 @@
 # NAME: PRASHANTH.K
-# REGISTER NUMBER: 21223230152
+# REGISTER NUMBER: 212223230152
 
 # Experiment--03-Half-Subtractor-and-Full-subtractor
 ## Implementation-of-Half-subtractor-and-Full-subtractor-circuit
